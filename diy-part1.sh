@@ -16,4 +16,4 @@
 # Add a feed source
 #echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
 #echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
-sed -i 's/5.4/5.10/g' ./target/linux/ramips/Makefile
+
